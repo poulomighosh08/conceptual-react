@@ -1,0 +1,43 @@
+[
+    {
+      "timestamp": "2025-04-18T08:45:00Z",
+      "message": "Server started successfully.",
+      "severity": "info"
+    },
+    {
+      "timestamp": "2025-04-18T08:50:00Z",
+      "message": "User login failed due to invalid credentials.",
+      "severity": "warning"
+    },
+    {
+      "timestamp": "2025-04-18T09:00:00Z",
+      "message": "Database connection timeout.",
+      "severity": "error"
+    },
+    {
+      "timestamp": "2025-04-18T09:05:00Z",
+      "message": "Health check passed for service A.",
+      "severity": "info"
+    },
+    {
+      "timestamp": "2025-04-18T09:10:00Z",
+      "message": "Disk space running low on server B.",
+      "severity": "warning"
+    },
+    {
+      "timestamp": "2025-04-18T09:15:00Z",
+      "message": "Unhandled exception in worker thread.",
+      "severity": "error"
+    },
+    {
+      "timestamp": "2025-04-18T09:20:00Z",
+      "message": "Cache cleared manually by admin.",
+      "severity": "info"
+    },
+    {
+      "timestamp": "2025-04-18T09:25:00Z",
+      "message": "Scheduled job 'cleanup' failed unexpectedly.",
+      "severity": "error"
+    }
+  ]
+  
